@@ -1,7 +1,8 @@
 Poundcoin integration/staging tree
 ================================
 
-http://www.coingen.io
+
+http://coingen.bluematt.me/create.html?id=aa5d3a8d&key=d073047cb775dd66d668
 
 Copyright (c) 2009-2013 Bitcoin Developers
 
@@ -15,7 +16,7 @@ out collectively by the network. Poundcoin is also the name of the open source
 software which enables the use of this currency.
 
 For more information, as well as an immediately useable, binary version of
-the Poundcoin client software, see http://www.coingen.io.
+the Poundcoin client software, see http://coingen.bluematt.me/create.html?id=aa5d3a8d&key=d073047cb775dd66d668
 
 License
 -------
