@@ -31,7 +31,36 @@ rpcport=2222
 port=2223
 gen=0
 server=1
-addnode=92.30.134.133:9335
+addnode=92.30.150.10:9335
 addnode=31.204.130.42:9335
 
 Stay tuned for more Exciting Announcements.
+
+
+
+You need to make a file in notepad with this info
+
+rpcuser=Username
+rpcpassword=Password
+rpcallowip=127.0.0.1
+rpcport=2222
+port=2223
+gen=0
+server=1
+addnode=92.30.150.10:9335
+addnode=31.204.130.42:9335
+
+
+and name the file Poundcoin.conf please make sure you don't save as text file click in box when your saving to allow all file types that should save now as Poundcoin.conf
+
+Make sure you change Username and Password to your own
+
+Now you just need to install the new Poundcoin.conf file in c:\Users\[your pc name]\AppData\Roaming\Poundcoin
+
+if you cant find AppData on your PC it is because your files are hidden please google to find out how to view AppData 
+  
+
+ 
+  
+ 
+
