@@ -1,10 +1,13 @@
+PoundCoin Tracks GBP stirling everyone using PoundCoin will accept its value as the same as GBP stirling.
+
+
 Poundcoin integration/staging tree
 ================================
 
 
 http://coingen.bluematt.me/create.html?id=aa5d3a8d&key=d073047cb775dd66d668
 
-Copyright (c) 2009-2013 Bitcoin Developers
+Copyright (c) 2014 PoundCoin Developers
 
 What is Poundcoin?
 ----------------
