@@ -20,7 +20,7 @@ So if you want, mine a few PoundCoins and trade for other cryptocurrencies.
 
 I will also be setting up a Donation address for Giveaways & Bounties for Games, Pools, etc
 
-PoundCoin Wallet Windows/Linux: https://github.com/Carrsy/poundcoin or http://carrsy.github.io/PoundCoin/
+PoundCoin Wallet Windows/Linux: http://www.wikiupload.com/ACQADYXUIBTLH7C
 
 poundcoin.conf
 
